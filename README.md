@@ -6,7 +6,7 @@
 
 ![Ramon Brandao GitHub stats](https://github-readme-stats.vercel.app/api?username=RamonBrandao&show_icons=true&theme=dracula)
 
-## Esudando as linguagens
+### Esudando as linguagens
 
 <div style="diplay: inline_block"><br/>
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
